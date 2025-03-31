@@ -10,6 +10,11 @@ a LLM client, such as Claude desktop or chatGPT desktop (for consuming the MCP)
 
 Clone the repository to your local environment, or where your LLM client is running.
 
+```
+git clone https://github.com/podaac/cmr-mcp.git
+cd cmr-mcp
+```
+
 
 ### Install uv 
 
