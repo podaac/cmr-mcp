@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/podaac-cmr-mcp-badge.png)](https://mseep.ai/app/podaac-cmr-mcp)
+
 # Model Context Protocol (MCP) for NASA Earthdata Search (CMR)
 
 This module is a [model context protocol](https://modelcontextprotocol.io/introduction) (MCP) for NASA's earthdata common metedata repository (CMR). The goal of this MCP server is to integrate AI retrievals with NASA Catalog of datasets by way of Earthaccess.
